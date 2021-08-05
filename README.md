@@ -12,3 +12,6 @@
 # Dependencias CSS
 - css-loader
 - mini-css-extract-plugin
+
+# Dependencias para copiar archivo con webpack
+- copy-webpack-plugin
