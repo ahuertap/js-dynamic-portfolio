@@ -15,3 +15,7 @@
 
 # Dependencias para copiar archivo con webpack
 - copy-webpack-plugin
+
+# Dependencias para minimizar archivos estaticos
+- css-minimizer-webpack-plugin: Minimiza CSS
+- terser-webpack-plugin: Minimiza JS
