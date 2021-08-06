@@ -19,3 +19,9 @@
 # Dependencias para minimizar archivos estaticos
 - css-minimizer-webpack-plugin: Minimiza CSS
 - terser-webpack-plugin: Minimiza JS
+
+# Dependencia para utilizar variables de entorno
+- dotenv-webpack
+
+# Dependencia para limpiar nuestro dist
+- clean-webpack-plugin: Nos ayuda a limpiart las compilaciones de versiones pasadas
